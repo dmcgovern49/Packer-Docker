@@ -4,8 +4,8 @@
         "ami_name": "ami-dmcgovern",
         "base_ami": "ami-0b0af3577fe5e3532",
         "ssh_username": "ec2-user",
-        "vpc_id": "vpc-0a0aa617595ae8ecd",
-        "subnet_id": "subnet-01da058096520624f"
+        "vpc_id": "vpc-0f7a9f868a74946ec",
+        "subnet_id": "subnet-0746bf22d2f2f4591"
     },
     "builders": [
         {
